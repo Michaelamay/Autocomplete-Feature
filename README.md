@@ -1,5 +1,5 @@
 # Autocomplete-Feature
-<p>A Java program that simulated an auto completion feature. The program includes real-time algorithm efficiency. It was fed approximately 10,000 frequently used English words with each word associated with a frequency number in order to determine the best word suggestion to the user.</p>
+<p>A Java program that simulates an auto completion feature. The program includes real-time algorithm efficiency. It was fed approximately 10,000 frequently used English words with each word associated with a frequency number in order to determine the best word suggestion to the user.</p>
 
 <h2>How It Works</h2>
 The user can type an abbreviation of a word they choose to search.
