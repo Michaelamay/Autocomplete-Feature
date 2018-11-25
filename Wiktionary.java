@@ -83,7 +83,7 @@ public class Wiktionary {
 			entries.add(new Entry(line));
 		}
 		
-		System.out.println(entries.size() + " entries");
+		//System.out.println(entries.size() + " entries");
 		
 		/**
 		int i =0;
